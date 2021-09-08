@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 5px;
+}
+
+
+.App-header {
+  background-color: #1a2f57;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 15 px;
+  color: white;
+  font-family: Varela Round;
+  box-shadow: 0px 2px 2px;
+}
+
+.app-modal-footer {
+	background: #0f0566;
+	border-color: #06364e;
+	text-align: center;
+	justify-content: center;
+	margin: 0 -20px -20px;
+	border-radius: 5px;
+	font-size: 14px;
+  color: #999;
+  padding: 10px;
+}
+
+.App-form {
+  background-color: rgb(87, 87, 207);
+  padding: 20px;
+  border-radius: 5px;
+}
